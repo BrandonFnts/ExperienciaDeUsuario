@@ -1,4 +1,4 @@
-# Experiencia de Ususario
+# Experiencia de Usuario
 
 En este repositorio se encuentra información en relación a la experiencia de usuario
 
